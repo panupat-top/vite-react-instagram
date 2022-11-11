@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@assets/*": ["assets/*"],
+      "@components/*": ["components/*"],
+      "@config/*": ["config/*"],
+      "@features/*": ["features/*"],
+      "@interfaces/*": ["interfaces/*"],
+      "@client/*": ["client/*"],
+      "@hooks/*": ["hooks/*"],
+      "@models/*": ["models/*"],
+      "@constants/*": ["constants/*"],
+      "@styles/*": ["styles/*"],
+      "@helpers/*": ["helpers/*"],
+      "@hoc/*": ["hoc/*"],
+      "@libs/*": ["libs/*"]
+    }
+  }
+}
